@@ -19,17 +19,18 @@
 
 1. **Установите Python 3.10+** (Обязательно добавьте в PATH).
 2. **Скачайте репозиторий:**
-   ```
-   git clone https://github.com/reeplooe/matrixhub.git
-   cd matrixhub
-   ```
+ ```
+git clone https://github.com/reeplooe/matrixhub.git
+cd matrixhub
+ ```
 3. Установите зависимости: Для корректной работы GUI и драйверов ввода:
 ```
 pip install -r requirements.txt
 ```
-5. Запуск:
+4. Запуск:
 ```
 python main.py
 ```
+
 ⚠️ Важное примечание
 При первом запуске скрипт проверит совместимость ваших драйверов с Windows API. Если появится запрос от брандмауэра — разрешите доступ для загрузки конфигурации сервера макросов.

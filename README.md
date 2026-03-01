@@ -1,4 +1,4 @@
-# 🌌 MatrixHub: Definitive Da Hood Macro (v2.4.1)
+# 🌌 Definitive Da Hood Macro (v2.4.1)
 
 ![License](https://img.shields.io/github/license/reeplooe/matrixhub?color=blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)

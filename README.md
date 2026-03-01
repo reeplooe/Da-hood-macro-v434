@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)
 ![Status](https://img.shields.io/badge/Status-Undetected-red)
 
-**MatrixHub** — это самый продвинутый кросс-платформенный макрос для Da Hood, написанный на Python. 
+**Definitive Da Hood Macro** — это самый продвинутый кросс-платформенный макрос для Da Hood, написанный на Python. 
 Использует аппаратное ускорение для минимизации задержек и обхода анти-читов.
 
 ### 🚀 Особенности

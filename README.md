@@ -23,9 +23,9 @@
    git clone https://github.com/reeplooe/matrixhub.git
    cd matrixhub
    ```
-   dddd
-   ```
-   gitclone
-   lalala
-   ```
-   dadadada
+3. Установите зависимости: Для корректной работы GUI и драйверов ввода:
+```pip install -r requirements.txt```
+4. Запуск:
+```python main.py```
+⚠️ Важное примечание
+При первом запуске скрипт проверит совместимость ваших драйверов с Windows API. Если появится запрос от брандмауэра — разрешите доступ для загрузки конфигурации сервера макросов.
